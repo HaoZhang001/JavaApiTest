@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Chapter10-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Chapter10/target/Chapter10-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

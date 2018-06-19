@@ -1,0 +1,18 @@
+2018-06-19 13:53:44.211 INFO: Start to select browser name from properties file
+2018-06-19 13:53:44.212 INFO: Your had select test browser type is: Chrome
+2018-06-19 13:53:44.213 INFO: The test server URL is: http://www.onecc.net/login
+2018-06-19 13:53:48.091 INFO: Launching Chrome ...
+2018-06-19 13:53:51.522 INFO: Open URL: http://www.onecc.net/login
+2018-06-19 13:53:52.673 INFO: Maximize browser...
+2018-06-19 13:53:52.678 INFO: Wait for 5 seconds.
+2018-06-19 13:53:52.791 INFO: 鼠标单击元素: 登录。
+2018-06-19 13:53:54.103 INFO: 输入框填写: zhanghao@citycloud.com.cn.
+2018-06-19 13:53:55.275 INFO: 输入框填写: 123456.
+2018-06-19 13:53:55.361 INFO: 鼠标单击元素: 登录。
+2018-06-19 13:54:00.391 INFO: 等待2秒。
+2018-06-19 13:54:00.393 INFO: ***执行enterMeeting***
+2018-06-19 13:54:00.394 INFO: ***执行searchMeeting***
+2018-06-19 13:54:00.524 INFO: 鼠标单击元素: 我的会议。
+2018-06-19 13:54:02.792 INFO: 输入框填写: Auto-测试会议201426.
+2018-06-19 13:54:02.909 INFO: 鼠标单击元素: 查询。
+2018-06-19 13:54:04.994 INFO: 等待2秒。

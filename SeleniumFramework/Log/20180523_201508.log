@@ -1,0 +1,15 @@
+2018-05-23 20:15:08.482 INFO: Start to select browser name from properties file
+2018-05-23 20:15:08.485 INFO: Your had select test browser type is: Chrome
+2018-05-23 20:15:08.485 INFO: The test server URL is: http://www.onecc.net/login
+2018-05-23 20:15:13.811 INFO: Launching Chrome ...
+2018-05-23 20:15:16.949 INFO: Open URL: http://www.onecc.net/login
+2018-05-23 20:15:18.106 INFO: Maximize browser...
+2018-05-23 20:15:18.111 INFO: Wait for 5 seconds.
+2018-05-23 20:15:18.222 INFO: 鼠标单击元素: 登录。
+2018-05-23 20:15:19.554 INFO: 输入框填写: zhanghao@citycloud.com.cn.
+2018-05-23 20:15:20.706 INFO: 输入框填写: 123456.
+2018-05-23 20:15:20.798 INFO: 鼠标单击元素: 登录。
+2018-05-23 20:15:20.942 INFO: ***执行immediateMeeting***
+2018-05-23 20:15:26.009 ERROR: 元素不存在或者无法操作！
+2018-05-23 20:15:26.021 INFO: ***执行LogOut***
+2018-05-23 20:15:31.059 ERROR: 元素不存在或者无法操作！
