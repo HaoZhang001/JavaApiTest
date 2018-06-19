@@ -124,6 +124,10 @@ public class CctManageMeeting extends BasePage{
     @FindBy(xpath = ".//*[@id='app']/div[1]/div[3]/div[2]/div[9]/button")
     WebElement 结束会议btn;
 
+    public void callParticipants(String userName) {
+        click(呼叫);
+
+    }
     public void allElementExitCk() {
         WebElement[] elementArray = { 会议名称, 会议时间, 预约时长, 会议号, 参会密码, 主持人密码, 当前模式, 视频入会, 层级, 列表, 呼叫,
                 通知, 刷新, 查询, 入会自动静音, 设置, 列名_全选, 列名_参会者, 列名_角色, 列名_在线状态, 列名_静音, 列名_通讯质量, 列名_类型,

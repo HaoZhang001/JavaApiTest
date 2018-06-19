@@ -2,6 +2,7 @@ package pageObjectFun;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
@@ -19,7 +20,7 @@ public class ModelTerminal {
     for(int i=1;i<20;i++){
         driver.navigate().refresh();
     }
-
+    driver.close();
     }
 
 }
